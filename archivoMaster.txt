@@ -2,3 +2,4 @@ archivo master
 
 agregando
 add in master 2
+add change obligatorie
